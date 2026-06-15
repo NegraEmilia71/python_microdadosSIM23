@@ -1,8 +1,0 @@
-# Core de engenharia de dados e manipulação vetricada
-pandas>=2.0.0
-numpy>=1.24.0
-
-# Estruturação visual, plotagem e gráficos corporativos
-seaborn>=0.12.0
-xhtml2pdf>=0.2.11
-jupyter>=1.0.0
