@@ -1,0 +1,493 @@
+Dimensao,UF,Categoria,Frequencia_Absoluta,Proporcao_Percentual
+Causa_Morte,BAHIA,"Achados anormais de exames de sangue, sem diagnóstico",1,0.0
+Causa_Morte,BAHIA,"Achados anormais de exames para diagnóstico por imagem e em estudos de função, sem diagnóstico",3,0.0
+Causa_Morte,BAHIA,Acidentes,4528,4.62
+Causa_Morte,BAHIA,Afecções bolhosas,8,0.01
+Causa_Morte,BAHIA,Afecções comprometendo o tegumento e a regulação térmica do feto e do recém-nascido,27,0.03
+Causa_Morte,BAHIA,Afecções dos anexos da pele,1,0.0
+Causa_Morte,BAHIA,Afecções necróticas e supurativas das vias aéreas inferiores,47,0.05
+Causa_Morte,BAHIA,Afecções pápulo-descamativas,5,0.01
+Causa_Morte,BAHIA,Agressões,5322,5.43
+Causa_Morte,BAHIA,Algumas doenças bacterianas zoonóticas,20,0.02
+Causa_Morte,BAHIA,Alguns transtornos que comprometem o mecanismo imunitário,23,0.02
+Causa_Morte,BAHIA,Anemias aplásticas e outras anemias,233,0.24
+Causa_Morte,BAHIA,Anemias hemolíticas,117,0.12
+Causa_Morte,BAHIA,Anemias nutricionais,68,0.07
+Causa_Morte,BAHIA,Anomalias cromossômicas não classificadas em outra parte,109,0.11
+Causa_Morte,BAHIA,Artropatias,58,0.06
+Causa_Morte,BAHIA,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,2,0.0
+Causa_Morte,BAHIA,Atrofias sistêmicas que afetam principalmente o sistema nervoso central,114,0.12
+Causa_Morte,BAHIA,Calculose renal,32,0.03
+Causa_Morte,BAHIA,Causas mal definidas e desconhecidas de mortalidade,9482,9.68
+Causa_Morte,BAHIA,Complicações de assistência médica e cirúrgica,85,0.09
+Causa_Morte,BAHIA,Complicações do trabalho de parto e do parto,18,0.02
+Causa_Morte,BAHIA,Complicações relacionadas predominantemente com o puerpério,6,0.01
+Causa_Morte,BAHIA,"Defeitos da coagulação, púrpura e outras afecções hemorrágicas",121,0.12
+Causa_Morte,BAHIA,Dermatite e eczema,4,0.0
+Causa_Morte,BAHIA,Desnutrição,378,0.39
+Causa_Morte,BAHIA,Diabetes mellitus,5252,5.36
+Causa_Morte,BAHIA,Distúrbios metabólicos,495,0.51
+Causa_Morte,BAHIA,Doença pelo vírus da imunodeficiência humana [HIV],574,0.59
+Causa_Morte,BAHIA,Doenças cardíaca pulmonar e da circulação pulmonar,485,0.5
+Causa_Morte,BAHIA,Doenças cerebrovasculares,7251,7.4
+Causa_Morte,BAHIA,Doenças crônicas das vias aéreas inferiores,2362,2.41
+Causa_Morte,BAHIA,"Doenças da cavidade oral, das glândulas salivares e dos maxilares",9,0.01
+Causa_Morte,BAHIA,Doenças da junção mioneural e dos músculos,34,0.03
+Causa_Morte,BAHIA,Doenças da mama,2,0.0
+Causa_Morte,BAHIA,"Doenças das artérias, das arteríolas e dos capilares",704,0.72
+Causa_Morte,BAHIA,"Doenças das veias, dos vasos linfáticos e dos gânglios linfáticos, não classificadas em outra parte",285,0.29
+Causa_Morte,BAHIA,Doenças desmielinizantes do sistema nervoso central,21,0.02
+Causa_Morte,BAHIA,Doenças devidas a protozoários,543,0.55
+Causa_Morte,BAHIA,Doenças do apêndice,60,0.06
+Causa_Morte,BAHIA,"Doenças do esôfago, do estômago e do duodeno",318,0.32
+Causa_Morte,BAHIA,Doenças do fígado,1769,1.81
+Causa_Morte,BAHIA,Doenças do ouvido externo,1,0.0
+Causa_Morte,BAHIA,Doenças do ouvido interno,1,0.0
+Causa_Morte,BAHIA,Doenças do ouvido médio e da mastóide,17,0.02
+Causa_Morte,BAHIA,Doenças do peritônio,175,0.18
+Causa_Morte,BAHIA,Doenças dos órgãos genitais masculinos,151,0.15
+Causa_Morte,BAHIA,Doenças extrapiramidais e transtornos dos movimentos,262,0.27
+Causa_Morte,BAHIA,Doenças glomerulares,204,0.21
+Causa_Morte,BAHIA,Doenças hipertensivas,4797,4.9
+Causa_Morte,BAHIA,Doenças infecciosas intestinais,357,0.36
+Causa_Morte,BAHIA,Doenças inflamatórias do sistema nervoso central,95,0.1
+Causa_Morte,BAHIA,Doenças inflamatórias dos órgãos pélvicos femininos,20,0.02
+Causa_Morte,BAHIA,Doenças isquêmicas do coração,5827,5.95
+Causa_Morte,BAHIA,Doenças pulmonares devidas a agentes externos,578,0.59
+Causa_Morte,BAHIA,Doenças renais túbulo-intersticiais,112,0.11
+Causa_Morte,BAHIA,Doenças reumáticas crônicas do coração,154,0.16
+Causa_Morte,BAHIA,Doenças sistêmicas do tecido conjuntivo,105,0.11
+Causa_Morte,BAHIA,Dorsopatias,18,0.02
+Causa_Morte,BAHIA,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério",13,0.01
+Causa_Morte,BAHIA,Enterites e colites não-infecciosas,51,0.05
+Causa_Morte,BAHIA,"Esquizofrenia, transtornos esquizotípicos e transtornos delirantes",32,0.03
+Causa_Morte,BAHIA,Eventos (fatos) cuja intenção é indeterminada,1200,1.23
+Causa_Morte,BAHIA,Febre reumática aguda,14,0.01
+Causa_Morte,BAHIA,Febres por arbovírus e febres hemorrágicas virais,46,0.05
+Causa_Morte,BAHIA,"Feto e recém-nascido afetados por fatores maternos e por complicações da gravidez, do trabalho de parto e do parto",989,1.01
+Causa_Morte,BAHIA,Gravidez que termina em aborto,9,0.01
+Causa_Morte,BAHIA,Helmintíases,65,0.07
+Causa_Morte,BAHIA,Hepatite viral,70,0.07
+Causa_Morte,BAHIA,Hérnias,145,0.15
+Causa_Morte,BAHIA,Infecções agudas das vias aéreas superiores,89,0.09
+Causa_Morte,BAHIA,Infecções da pele e do tecido subcutâneo,370,0.38
+Causa_Morte,BAHIA,Infecções de transmissão predominantemente sexual,29,0.03
+Causa_Morte,BAHIA,Infecções específicas do período perinatal,175,0.18
+Causa_Morte,BAHIA,Infecções virais caracterizadas por lesões de pele e mucosas,12,0.01
+Causa_Morte,BAHIA,Infecções virais do sistema nervoso central,27,0.03
+Causa_Morte,BAHIA,Influenza [gripe] e pneumonia,3759,3.84
+Causa_Morte,BAHIA,Insuficiência renal,1100,1.12
+Causa_Morte,BAHIA,Intervenções legais e operações de guerra,601,0.61
+Causa_Morte,BAHIA,Lesões autoprovocadas intencionalmente,750,0.77
+Causa_Morte,BAHIA,Malformações congênitas do aparelho circulatório,294,0.3
+Causa_Morte,BAHIA,Malformações congênitas do aparelho respiratório,26,0.03
+Causa_Morte,BAHIA,Malformações congênitas do aparelho urinário,36,0.04
+Causa_Morte,BAHIA,Malformações congênitas do sistema nervoso,114,0.12
+Causa_Morte,BAHIA,Malformações congênitas dos órgãos genitais,1,0.0
+Causa_Morte,BAHIA,Malformações e deformidades congênitas do sistema osteomuscular,50,0.05
+Causa_Morte,BAHIA,Micoses,18,0.02
+Causa_Morte,BAHIA,Neoplasias [tumores] benignas(os),55,0.06
+Causa_Morte,BAHIA,Neoplasias [tumores] de comportamento incerto ou desconhecido,208,0.21
+Causa_Morte,BAHIA,Neoplasias [tumores] in situ,10,0.01
+Causa_Morte,BAHIA,Neoplasias [tumores] malignas(os),13813,14.1
+Causa_Morte,BAHIA,Obesidade e outras formas de hiperalimentação,181,0.18
+Causa_Morte,BAHIA,Osteopatias e condropatias,59,0.06
+Causa_Morte,BAHIA,Outras afecções da pele e do tecido subcutâneo,335,0.34
+Causa_Morte,BAHIA,Outras afecções obstétricas não classificadas em outra parte,31,0.03
+Causa_Morte,BAHIA,Outras deficiências nutricionais,13,0.01
+Causa_Morte,BAHIA,Outras doenças bacterianas,1857,1.9
+Causa_Morte,BAHIA,Outras doenças da pleura,110,0.11
+Causa_Morte,BAHIA,Outras doenças das vias aéreas superiores,25,0.03
+Causa_Morte,BAHIA,Outras doenças degenerativas do sistema nervoso,1291,1.32
+Causa_Morte,BAHIA,Outras doenças do aparelho digestivo,801,0.82
+Causa_Morte,BAHIA,Outras doenças do aparelho respiratório,1286,1.31
+Causa_Morte,BAHIA,Outras doenças do aparelho urinário,996,1.02
+Causa_Morte,BAHIA,Outras doenças do sangue e dos órgãos hematopoéticos,56,0.06
+Causa_Morte,BAHIA,Outras doenças dos intestinos,807,0.82
+Causa_Morte,BAHIA,Outras doenças infecciosas,2,0.0
+Causa_Morte,BAHIA,Outras doenças por espiroquetas,1,0.0
+Causa_Morte,BAHIA,Outras doenças por vírus,397,0.41
+Causa_Morte,BAHIA,Outras doenças respiratórias que afetam principalmente o interstício,258,0.26
+Causa_Morte,BAHIA,Outras formas de doença do coração,3641,3.72
+Causa_Morte,BAHIA,Outras infecções agudas das vias aéreas inferiores,423,0.43
+Causa_Morte,BAHIA,Outras malformações congênitas,116,0.12
+Causa_Morte,BAHIA,Outras malformações congênitas do aparelho digestivo,40,0.04
+Causa_Morte,BAHIA,Outros transtornos da regulação da glicose e da secreção pancreática interna,57,0.06
+Causa_Morte,BAHIA,Outros transtornos do olho e anexos,1,0.0
+Causa_Morte,BAHIA,Outros transtornos do rim e do ureter,28,0.03
+Causa_Morte,BAHIA,Outros transtornos do sistema nervoso,250,0.26
+Causa_Morte,BAHIA,Outros transtornos maternos relacionados predominantemente com a gravidez,8,0.01
+Causa_Morte,BAHIA,Outros transtornos originados no período perinatal,868,0.89
+Causa_Morte,BAHIA,"Outros transtornos, e os não especificados do aparelho circulatório",56,0.06
+Causa_Morte,BAHIA,Paralisia cerebral e outras síndromes paralíticas,144,0.15
+Causa_Morte,BAHIA,"Pediculose, acaríase e outras infestações",5,0.01
+Causa_Morte,BAHIA,Polineuropatias e outros transtornos do sistema nervoso periférico,55,0.06
+Causa_Morte,BAHIA,Retardo mental,16,0.02
+Causa_Morte,BAHIA,Seqüelas de causas externas de morbidade e de mortalidade,27,0.03
+Causa_Morte,BAHIA,Seqüelas de doenças infecciosas e parasitárias,43,0.04
+Causa_Morte,BAHIA,Sintomas e sinais gerais,1010,1.03
+Causa_Morte,BAHIA,Sintomas e sinais relativos ao aparelho circulatório e respiratório,384,0.39
+Causa_Morte,BAHIA,Sintomas e sinais relativos ao aparelho digestivo e ao abdome,89,0.09
+Causa_Morte,BAHIA,Sintomas e sinais relativos ao aparelho urinário,1,0.0
+Causa_Morte,BAHIA,Sintomas e sinais relativos aos sistemas nervoso e osteomuscular,1,0.0
+Causa_Morte,BAHIA,"Sintomas e sinais relativos à cognição, à percepção, ao estado emocional e ao comportamento",3,0.0
+Causa_Morte,BAHIA,Sintomas e sinais relativos à pele e ao tecido subcutâneo,3,0.0
+Causa_Morte,BAHIA,Transtorno mental não especificado,17,0.02
+Causa_Morte,BAHIA,Transtornos da glândula tireóide,39,0.04
+Causa_Morte,BAHIA,"Transtornos da pálpebra, do aparelho lacrimal e da órbita",1,0.0
+Causa_Morte,BAHIA,"Transtornos da vesícula biliar, das vias biliares e do pâncreas",603,0.62
+Causa_Morte,BAHIA,Transtornos de outras glândulas endócrinas,11,0.01
+Causa_Morte,BAHIA,Transtornos do aparelho digestivo do feto ou do recém-nascido,75,0.08
+Causa_Morte,BAHIA,Transtornos do comportamento e transtornos emocionais que aparecem habitualmente durante a infância ou a adolescência,1,0.0
+Causa_Morte,BAHIA,Transtornos do desenvolvimento psicológico,3,0.0
+Causa_Morte,BAHIA,Transtornos do humor [afetivos],69,0.07
+Causa_Morte,BAHIA,Transtornos do humor vítreo e do globo ocular,2,0.0
+Causa_Morte,BAHIA,"Transtornos dos nervos, das raízes e dos plexos nervosos",2,0.0
+Causa_Morte,BAHIA,Transtornos dos tecidos moles,133,0.14
+Causa_Morte,BAHIA,Transtornos endócrinos e metabólicos transitórios específicos do feto e do recém-nascido,57,0.06
+Causa_Morte,BAHIA,Transtornos episódicos e paroxísticos,325,0.33
+Causa_Morte,BAHIA,Transtornos hemorrágicos e hematológicos do feto e do recém-nascido,47,0.05
+Causa_Morte,BAHIA,Transtornos mentais e comportamentais devidos ao uso de substância psicoativa,963,0.98
+Causa_Morte,BAHIA,"Transtornos mentais orgânicos, inclusive os sintomáticos",122,0.12
+Causa_Morte,BAHIA,"Transtornos neuróticos, transtornos relacionados com o ""stress"" e transtornos somatoformes",6,0.01
+Causa_Morte,BAHIA,Transtornos não-inflamatórios do trato genital feminino,18,0.02
+Causa_Morte,BAHIA,Transtornos relacionados com a duração da gestação e com o crescimento fetal,267,0.27
+Causa_Morte,BAHIA,Transtornos respiratórios e cardiovasculares específicos do período perinatal,982,1.0
+Causa_Morte,BAHIA,Traumatismo de parto,6,0.01
+Causa_Morte,BAHIA,Tuberculose,375,0.38
+Causa_Morte,BAHIA,Urticária e eritema,10,0.01
+Causa_Morte,SANTA CATARINA,"Achados anormais de exames para diagnóstico por imagem e em estudos de função, sem diagnóstico",1,0.0
+Causa_Morte,SANTA CATARINA,Acidentes,2728,5.84
+Causa_Morte,SANTA CATARINA,Afecções bolhosas,8,0.02
+Causa_Morte,SANTA CATARINA,Afecções comprometendo o tegumento e a regulação térmica do feto e do recém-nascido,16,0.03
+Causa_Morte,SANTA CATARINA,Afecções necróticas e supurativas das vias aéreas inferiores,20,0.04
+Causa_Morte,SANTA CATARINA,Agressões,591,1.26
+Causa_Morte,SANTA CATARINA,Algumas doenças bacterianas zoonóticas,16,0.03
+Causa_Morte,SANTA CATARINA,Alguns transtornos que comprometem o mecanismo imunitário,12,0.03
+Causa_Morte,SANTA CATARINA,Anemias aplásticas e outras anemias,36,0.08
+Causa_Morte,SANTA CATARINA,Anemias hemolíticas,15,0.03
+Causa_Morte,SANTA CATARINA,Anemias nutricionais,11,0.02
+Causa_Morte,SANTA CATARINA,Anomalias cromossômicas não classificadas em outra parte,72,0.15
+Causa_Morte,SANTA CATARINA,Artropatias,52,0.11
+Causa_Morte,SANTA CATARINA,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,4,0.01
+Causa_Morte,SANTA CATARINA,Atrofias sistêmicas que afetam principalmente o sistema nervoso central,127,0.27
+Causa_Morte,SANTA CATARINA,Calculose renal,22,0.05
+Causa_Morte,SANTA CATARINA,Causas mal definidas e desconhecidas de mortalidade,1008,2.16
+Causa_Morte,SANTA CATARINA,Complicações de assistência médica e cirúrgica,56,0.12
+Causa_Morte,SANTA CATARINA,Complicações do trabalho de parto e do parto,3,0.01
+Causa_Morte,SANTA CATARINA,Complicações relacionadas predominantemente com o puerpério,1,0.0
+Causa_Morte,SANTA CATARINA,"Defeitos da coagulação, púrpura e outras afecções hemorrágicas",54,0.12
+Causa_Morte,SANTA CATARINA,Dermatite e eczema,2,0.0
+Causa_Morte,SANTA CATARINA,Desnutrição,53,0.11
+Causa_Morte,SANTA CATARINA,Diabetes mellitus,2297,4.91
+Causa_Morte,SANTA CATARINA,Distúrbios metabólicos,243,0.52
+Causa_Morte,SANTA CATARINA,Doença pelo vírus da imunodeficiência humana [HIV],373,0.8
+Causa_Morte,SANTA CATARINA,Doenças cardíaca pulmonar e da circulação pulmonar,423,0.9
+Causa_Morte,SANTA CATARINA,Doenças cerebrovasculares,3151,6.74
+Causa_Morte,SANTA CATARINA,Doenças crônicas das vias aéreas inferiores,2193,4.69
+Causa_Morte,SANTA CATARINA,"Doenças da cavidade oral, das glândulas salivares e dos maxilares",3,0.01
+Causa_Morte,SANTA CATARINA,Doenças da junção mioneural e dos músculos,22,0.05
+Causa_Morte,SANTA CATARINA,Doenças da mama,2,0.0
+Causa_Morte,SANTA CATARINA,"Doenças das artérias, das arteríolas e dos capilares",603,1.29
+Causa_Morte,SANTA CATARINA,"Doenças das veias, dos vasos linfáticos e dos gânglios linfáticos, não classificadas em outra parte",112,0.24
+Causa_Morte,SANTA CATARINA,Doenças desmielinizantes do sistema nervoso central,27,0.06
+Causa_Morte,SANTA CATARINA,Doenças devidas a protozoários,4,0.01
+Causa_Morte,SANTA CATARINA,Doenças do apêndice,30,0.06
+Causa_Morte,SANTA CATARINA,"Doenças do esôfago, do estômago e do duodeno",201,0.43
+Causa_Morte,SANTA CATARINA,Doenças do fígado,717,1.53
+Causa_Morte,SANTA CATARINA,Doenças do ouvido médio e da mastóide,8,0.02
+Causa_Morte,SANTA CATARINA,Doenças do peritônio,51,0.11
+Causa_Morte,SANTA CATARINA,Doenças dos órgãos genitais masculinos,60,0.13
+Causa_Morte,SANTA CATARINA,Doenças extrapiramidais e transtornos dos movimentos,275,0.59
+Causa_Morte,SANTA CATARINA,Doenças glomerulares,25,0.05
+Causa_Morte,SANTA CATARINA,Doenças hipertensivas,1948,4.17
+Causa_Morte,SANTA CATARINA,Doenças infecciosas intestinais,151,0.32
+Causa_Morte,SANTA CATARINA,Doenças inflamatórias do sistema nervoso central,71,0.15
+Causa_Morte,SANTA CATARINA,Doenças inflamatórias dos órgãos pélvicos femininos,7,0.01
+Causa_Morte,SANTA CATARINA,Doenças isquêmicas do coração,3612,7.73
+Causa_Morte,SANTA CATARINA,Doenças pulmonares devidas a agentes externos,242,0.52
+Causa_Morte,SANTA CATARINA,Doenças renais túbulo-intersticiais,61,0.13
+Causa_Morte,SANTA CATARINA,Doenças reumáticas crônicas do coração,85,0.18
+Causa_Morte,SANTA CATARINA,Doenças sistêmicas do tecido conjuntivo,49,0.1
+Causa_Morte,SANTA CATARINA,Dorsopatias,20,0.04
+Causa_Morte,SANTA CATARINA,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério",4,0.01
+Causa_Morte,SANTA CATARINA,Enterites e colites não-infecciosas,37,0.08
+Causa_Morte,SANTA CATARINA,"Esquizofrenia, transtornos esquizotípicos e transtornos delirantes",27,0.06
+Causa_Morte,SANTA CATARINA,Eventos (fatos) cuja intenção é indeterminada,223,0.48
+Causa_Morte,SANTA CATARINA,Febre reumática aguda,3,0.01
+Causa_Morte,SANTA CATARINA,Febres por arbovírus e febres hemorrágicas virais,78,0.17
+Causa_Morte,SANTA CATARINA,"Feto e recém-nascido afetados por fatores maternos e por complicações da gravidez, do trabalho de parto e do parto",441,0.94
+Causa_Morte,SANTA CATARINA,Gravidez que termina em aborto,1,0.0
+Causa_Morte,SANTA CATARINA,Helmintíases,3,0.01
+Causa_Morte,SANTA CATARINA,Hepatite viral,42,0.09
+Causa_Morte,SANTA CATARINA,Hérnias,92,0.2
+Causa_Morte,SANTA CATARINA,Infecções agudas das vias aéreas superiores,23,0.05
+Causa_Morte,SANTA CATARINA,Infecções da pele e do tecido subcutâneo,101,0.22
+Causa_Morte,SANTA CATARINA,Infecções de transmissão predominantemente sexual,10,0.02
+Causa_Morte,SANTA CATARINA,Infecções específicas do período perinatal,80,0.17
+Causa_Morte,SANTA CATARINA,Infecções virais caracterizadas por lesões de pele e mucosas,14,0.03
+Causa_Morte,SANTA CATARINA,Infecções virais do sistema nervoso central,18,0.04
+Causa_Morte,SANTA CATARINA,Influenza [gripe] e pneumonia,2177,4.66
+Causa_Morte,SANTA CATARINA,Insuficiência renal,555,1.19
+Causa_Morte,SANTA CATARINA,Intervenções legais e operações de guerra,38,0.08
+Causa_Morte,SANTA CATARINA,Lesões autoprovocadas intencionalmente,918,1.96
+Causa_Morte,SANTA CATARINA,Malformações congênitas do aparelho circulatório,129,0.28
+Causa_Morte,SANTA CATARINA,Malformações congênitas do aparelho respiratório,21,0.04
+Causa_Morte,SANTA CATARINA,Malformações congênitas do aparelho urinário,19,0.04
+Causa_Morte,SANTA CATARINA,Malformações congênitas do sistema nervoso,50,0.11
+Causa_Morte,SANTA CATARINA,Malformações congênitas dos órgãos genitais,1,0.0
+Causa_Morte,SANTA CATARINA,Malformações e deformidades congênitas do sistema osteomuscular,29,0.06
+Causa_Morte,SANTA CATARINA,Micoses,25,0.05
+Causa_Morte,SANTA CATARINA,Neoplasias [tumores] benignas(os),19,0.04
+Causa_Morte,SANTA CATARINA,Neoplasias [tumores] de comportamento incerto ou desconhecido,115,0.25
+Causa_Morte,SANTA CATARINA,Neoplasias [tumores] in situ,9,0.02
+Causa_Morte,SANTA CATARINA,Neoplasias [tumores] malignas(os),10043,21.48
+Causa_Morte,SANTA CATARINA,Obesidade e outras formas de hiperalimentação,133,0.28
+Causa_Morte,SANTA CATARINA,Osteopatias e condropatias,35,0.07
+Causa_Morte,SANTA CATARINA,Outras afecções da pele e do tecido subcutâneo,94,0.2
+Causa_Morte,SANTA CATARINA,Outras afecções obstétricas não classificadas em outra parte,24,0.05
+Causa_Morte,SANTA CATARINA,Outras deficiências nutricionais,7,0.01
+Causa_Morte,SANTA CATARINA,Outras doenças bacterianas,739,1.58
+Causa_Morte,SANTA CATARINA,Outras doenças da pleura,35,0.07
+Causa_Morte,SANTA CATARINA,Outras doenças das vias aéreas superiores,14,0.03
+Causa_Morte,SANTA CATARINA,Outras doenças degenerativas do sistema nervoso,1190,2.55
+Causa_Morte,SANTA CATARINA,Outras doenças do aparelho digestivo,223,0.48
+Causa_Morte,SANTA CATARINA,Outras doenças do aparelho respiratório,188,0.4
+Causa_Morte,SANTA CATARINA,Outras doenças do aparelho urinário,862,1.84
+Causa_Morte,SANTA CATARINA,Outras doenças do sangue e dos órgãos hematopoéticos,23,0.05
+Causa_Morte,SANTA CATARINA,Outras doenças dos intestinos,490,1.05
+Causa_Morte,SANTA CATARINA,Outras doenças infecciosas,1,0.0
+Causa_Morte,SANTA CATARINA,Outras doenças por vírus,340,0.73
+Causa_Morte,SANTA CATARINA,Outras doenças respiratórias que afetam principalmente o interstício,193,0.41
+Causa_Morte,SANTA CATARINA,Outras formas de doença do coração,2411,5.16
+Causa_Morte,SANTA CATARINA,Outras infecções agudas das vias aéreas inferiores,53,0.11
+Causa_Morte,SANTA CATARINA,Outras malformações congênitas,54,0.12
+Causa_Morte,SANTA CATARINA,Outras malformações congênitas do aparelho digestivo,16,0.03
+Causa_Morte,SANTA CATARINA,Outros transtornos da regulação da glicose e da secreção pancreática interna,12,0.03
+Causa_Morte,SANTA CATARINA,Outros transtornos do rim e do ureter,14,0.03
+Causa_Morte,SANTA CATARINA,Outros transtornos do sistema nervoso,101,0.22
+Causa_Morte,SANTA CATARINA,Outros transtornos maternos relacionados predominantemente com a gravidez,1,0.0
+Causa_Morte,SANTA CATARINA,Outros transtornos originados no período perinatal,207,0.44
+Causa_Morte,SANTA CATARINA,"Outros transtornos, e os não especificados do aparelho circulatório",2,0.0
+Causa_Morte,SANTA CATARINA,Paralisia cerebral e outras síndromes paralíticas,63,0.13
+Causa_Morte,SANTA CATARINA,"Pediculose, acaríase e outras infestações",2,0.0
+Causa_Morte,SANTA CATARINA,Polineuropatias e outros transtornos do sistema nervoso periférico,17,0.04
+Causa_Morte,SANTA CATARINA,Retardo mental,13,0.03
+Causa_Morte,SANTA CATARINA,Seqüelas de causas externas de morbidade e de mortalidade,23,0.05
+Causa_Morte,SANTA CATARINA,Seqüelas de doenças infecciosas e parasitárias,18,0.04
+Causa_Morte,SANTA CATARINA,Sintomas e sinais gerais,145,0.31
+Causa_Morte,SANTA CATARINA,Sintomas e sinais relativos ao aparelho circulatório e respiratório,163,0.35
+Causa_Morte,SANTA CATARINA,Sintomas e sinais relativos ao aparelho digestivo e ao abdome,18,0.04
+Causa_Morte,SANTA CATARINA,Sintomas e sinais relativos ao aparelho urinário,2,0.0
+Causa_Morte,SANTA CATARINA,"Sintomas e sinais relativos à cognição, à percepção, ao estado emocional e ao comportamento",1,0.0
+Causa_Morte,SANTA CATARINA,Sintomas e sinais relativos à pele e ao tecido subcutâneo,2,0.0
+Causa_Morte,SANTA CATARINA,Síndromes comportamentais associadas a disfunções fisiológicas e a fatores físicos,1,0.0
+Causa_Morte,SANTA CATARINA,Transtornos da glândula tireóide,52,0.11
+Causa_Morte,SANTA CATARINA,"Transtornos da vesícula biliar, das vias biliares e do pâncreas",342,0.73
+Causa_Morte,SANTA CATARINA,Transtornos de outras glândulas endócrinas,7,0.01
+Causa_Morte,SANTA CATARINA,Transtornos do aparelho digestivo do feto ou do recém-nascido,27,0.06
+Causa_Morte,SANTA CATARINA,Transtornos do desenvolvimento psicológico,5,0.01
+Causa_Morte,SANTA CATARINA,Transtornos do humor [afetivos],30,0.06
+Causa_Morte,SANTA CATARINA,Transtornos dos tecidos moles,23,0.05
+Causa_Morte,SANTA CATARINA,Transtornos endócrinos e metabólicos transitórios específicos do feto e do recém-nascido,18,0.04
+Causa_Morte,SANTA CATARINA,Transtornos episódicos e paroxísticos,128,0.27
+Causa_Morte,SANTA CATARINA,Transtornos hemorrágicos e hematológicos do feto e do recém-nascido,21,0.04
+Causa_Morte,SANTA CATARINA,Transtornos mentais e comportamentais devidos ao uso de substância psicoativa,304,0.65
+Causa_Morte,SANTA CATARINA,"Transtornos mentais orgânicos, inclusive os sintomáticos",93,0.2
+Causa_Morte,SANTA CATARINA,"Transtornos neuróticos, transtornos relacionados com o ""stress"" e transtornos somatoformes",5,0.01
+Causa_Morte,SANTA CATARINA,Transtornos não-inflamatórios do trato genital feminino,4,0.01
+Causa_Morte,SANTA CATARINA,Transtornos relacionados com a duração da gestação e com o crescimento fetal,76,0.16
+Causa_Morte,SANTA CATARINA,Transtornos respiratórios e cardiovasculares específicos do período perinatal,243,0.52
+Causa_Morte,SANTA CATARINA,Traumatismo de parto,1,0.0
+Causa_Morte,SANTA CATARINA,Tuberculose,118,0.25
+Causa_Morte,SÃO PAULO,"Achados anormais de exames de sangue, sem diagnóstico",2,0.0
+Causa_Morte,SÃO PAULO,"Achados anormais de exames e de outros líquidos, substâncias e tecidos do corpo, sem diagnóstico",1,0.0
+Causa_Morte,SÃO PAULO,"Achados anormais de exames para diagnóstico por imagem e em estudos de função, sem diagnóstico",8,0.0
+Causa_Morte,SÃO PAULO,Acidentes,11992,3.69
+Causa_Morte,SÃO PAULO,Afecções bolhosas,48,0.01
+Causa_Morte,SÃO PAULO,Afecções comprometendo o tegumento e a regulação térmica do feto e do recém-nascido,55,0.02
+Causa_Morte,SÃO PAULO,Afecções necróticas e supurativas das vias aéreas inferiores,327,0.1
+Causa_Morte,SÃO PAULO,Afecções pápulo-descamativas,10,0.0
+Causa_Morte,SÃO PAULO,Agressões,2690,0.83
+Causa_Morte,SÃO PAULO,Algumas doenças bacterianas zoonóticas,78,0.02
+Causa_Morte,SÃO PAULO,Alguns transtornos que comprometem o mecanismo imunitário,86,0.03
+Causa_Morte,SÃO PAULO,Anemias aplásticas e outras anemias,536,0.16
+Causa_Morte,SÃO PAULO,Anemias hemolíticas,183,0.06
+Causa_Morte,SÃO PAULO,Anemias nutricionais,119,0.04
+Causa_Morte,SÃO PAULO,Anomalias cromossômicas não classificadas em outra parte,379,0.12
+Causa_Morte,SÃO PAULO,Artropatias,307,0.09
+Causa_Morte,SÃO PAULO,Assistência prestada à mãe por motivos ligados ao feto e à cavidade amniótica e por possíveis problemas relativos ao parto,17,0.01
+Causa_Morte,SÃO PAULO,Atrofias sistêmicas que afetam principalmente o sistema nervoso central,568,0.17
+Causa_Morte,SÃO PAULO,Calculose renal,157,0.05
+Causa_Morte,SÃO PAULO,Causas mal definidas e desconhecidas de mortalidade,11665,3.59
+Causa_Morte,SÃO PAULO,Complicações de assistência médica e cirúrgica,775,0.24
+Causa_Morte,SÃO PAULO,Complicações do trabalho de parto e do parto,31,0.01
+Causa_Morte,SÃO PAULO,Complicações relacionadas predominantemente com o puerpério,22,0.01
+Causa_Morte,SÃO PAULO,"Defeitos da coagulação, púrpura e outras afecções hemorrágicas",351,0.11
+Causa_Morte,SÃO PAULO,Dermatite e eczema,12,0.0
+Causa_Morte,SÃO PAULO,Desnutrição,643,0.2
+Causa_Morte,SÃO PAULO,Diabetes mellitus,12185,3.75
+Causa_Morte,SÃO PAULO,Distúrbios metabólicos,1795,0.55
+Causa_Morte,SÃO PAULO,Doença pelo vírus da imunodeficiência humana [HIV],1668,0.51
+Causa_Morte,SÃO PAULO,Doenças cardíaca pulmonar e da circulação pulmonar,4128,1.27
+Causa_Morte,SÃO PAULO,Doenças cerebrovasculares,21213,6.52
+Causa_Morte,SÃO PAULO,Doenças crônicas das vias aéreas inferiores,10910,3.35
+Causa_Morte,SÃO PAULO,"Doenças da cavidade oral, das glândulas salivares e dos maxilares",25,0.01
+Causa_Morte,SÃO PAULO,Doenças da junção mioneural e dos músculos,167,0.05
+Causa_Morte,SÃO PAULO,Doenças da mama,9,0.0
+Causa_Morte,SÃO PAULO,"Doenças das artérias, das arteríolas e dos capilares",4861,1.49
+Causa_Morte,SÃO PAULO,"Doenças das veias, dos vasos linfáticos e dos gânglios linfáticos, não classificadas em outra parte",1043,0.32
+Causa_Morte,SÃO PAULO,Doenças desmielinizantes do sistema nervoso central,108,0.03
+Causa_Morte,SÃO PAULO,Doenças devidas a protozoários,848,0.26
+Causa_Morte,SÃO PAULO,Doenças do apêndice,186,0.06
+Causa_Morte,SÃO PAULO,"Doenças do esôfago, do estômago e do duodeno",1518,0.47
+Causa_Morte,SÃO PAULO,Doenças do fígado,6434,1.98
+Causa_Morte,SÃO PAULO,Doenças do ouvido externo,6,0.0
+Causa_Morte,SÃO PAULO,Doenças do ouvido interno,5,0.0
+Causa_Morte,SÃO PAULO,Doenças do ouvido médio e da mastóide,58,0.02
+Causa_Morte,SÃO PAULO,Doenças do peritônio,529,0.16
+Causa_Morte,SÃO PAULO,Doenças dos órgãos genitais masculinos,409,0.13
+Causa_Morte,SÃO PAULO,Doenças extrapiramidais e transtornos dos movimentos,1318,0.41
+Causa_Morte,SÃO PAULO,Doenças glomerulares,892,0.27
+Causa_Morte,SÃO PAULO,Doenças hipertensivas,9600,2.95
+Causa_Morte,SÃO PAULO,Doenças infecciosas intestinais,1139,0.35
+Causa_Morte,SÃO PAULO,Doenças inflamatórias do sistema nervoso central,559,0.17
+Causa_Morte,SÃO PAULO,Doenças inflamatórias dos órgãos pélvicos femininos,70,0.02
+Causa_Morte,SÃO PAULO,Doenças isquêmicas do coração,31410,9.66
+Causa_Morte,SÃO PAULO,Doenças pulmonares devidas a agentes externos,2080,0.64
+Causa_Morte,SÃO PAULO,Doenças renais túbulo-intersticiais,845,0.26
+Causa_Morte,SÃO PAULO,Doenças reumáticas crônicas do coração,445,0.14
+Causa_Morte,SÃO PAULO,Doenças sistêmicas do tecido conjuntivo,363,0.11
+Causa_Morte,SÃO PAULO,Dorsopatias,114,0.04
+Causa_Morte,SÃO PAULO,"Edema, proteinúria e transtornos hipertensivos na gravidez, no parto e no puerpério",28,0.01
+Causa_Morte,SÃO PAULO,Enterites e colites não-infecciosas,232,0.07
+Causa_Morte,SÃO PAULO,"Esquizofrenia, transtornos esquizotípicos e transtornos delirantes",169,0.05
+Causa_Morte,SÃO PAULO,Eventos (fatos) cuja intenção é indeterminada,4670,1.44
+Causa_Morte,SÃO PAULO,Febre reumática aguda,28,0.01
+Causa_Morte,SÃO PAULO,Febres por arbovírus e febres hemorrágicas virais,321,0.1
+Causa_Morte,SÃO PAULO,Fenda labial e fenda palatina,1,0.0
+Causa_Morte,SÃO PAULO,"Feto e recém-nascido afetados por fatores maternos e por complicações da gravidez, do trabalho de parto e do parto",2861,0.88
+Causa_Morte,SÃO PAULO,Glaucoma,1,0.0
+Causa_Morte,SÃO PAULO,Gravidez que termina em aborto,20,0.01
+Causa_Morte,SÃO PAULO,Helmintíases,63,0.02
+Causa_Morte,SÃO PAULO,Hepatite viral,366,0.11
+Causa_Morte,SÃO PAULO,Hérnias,685,0.21
+Causa_Morte,SÃO PAULO,Infecções agudas das vias aéreas superiores,84,0.03
+Causa_Morte,SÃO PAULO,Infecções da pele e do tecido subcutâneo,1396,0.43
+Causa_Morte,SÃO PAULO,Infecções de transmissão predominantemente sexual,74,0.02
+Causa_Morte,SÃO PAULO,Infecções específicas do período perinatal,513,0.16
+Causa_Morte,SÃO PAULO,Infecções virais caracterizadas por lesões de pele e mucosas,67,0.02
+Causa_Morte,SÃO PAULO,Infecções virais do sistema nervoso central,104,0.03
+Causa_Morte,SÃO PAULO,Influenza [gripe] e pneumonia,22975,7.06
+Causa_Morte,SÃO PAULO,Insuficiência renal,3718,1.14
+Causa_Morte,SÃO PAULO,Intervenções legais e operações de guerra,104,0.03
+Causa_Morte,SÃO PAULO,Lesões autoprovocadas intencionalmente,2613,0.8
+Causa_Morte,SÃO PAULO,Malformações congênitas do aparelho circulatório,748,0.23
+Causa_Morte,SÃO PAULO,Malformações congênitas do aparelho respiratório,166,0.05
+Causa_Morte,SÃO PAULO,Malformações congênitas do aparelho urinário,116,0.04
+Causa_Morte,SÃO PAULO,Malformações congênitas do sistema nervoso,302,0.09
+Causa_Morte,SÃO PAULO,Malformações congênitas dos órgãos genitais,3,0.0
+Causa_Morte,SÃO PAULO,Malformações e deformidades congênitas do sistema osteomuscular,125,0.04
+Causa_Morte,SÃO PAULO,Micoses,114,0.04
+Causa_Morte,SÃO PAULO,Neoplasias [tumores] benignas(os),200,0.06
+Causa_Morte,SÃO PAULO,Neoplasias [tumores] de comportamento incerto ou desconhecido,1094,0.34
+Causa_Morte,SÃO PAULO,Neoplasias [tumores] in situ,27,0.01
+Causa_Morte,SÃO PAULO,Neoplasias [tumores] malignas(os),58265,17.91
+Causa_Morte,SÃO PAULO,Obesidade e outras formas de hiperalimentação,814,0.25
+Causa_Morte,SÃO PAULO,Osteopatias e condropatias,450,0.14
+Causa_Morte,SÃO PAULO,Outras afecções da pele e do tecido subcutâneo,975,0.3
+Causa_Morte,SÃO PAULO,Outras afecções obstétricas não classificadas em outra parte,104,0.03
+Causa_Morte,SÃO PAULO,Outras deficiências nutricionais,24,0.01
+Causa_Morte,SÃO PAULO,Outras doenças bacterianas,6125,1.88
+Causa_Morte,SÃO PAULO,Outras doenças causadas por clamídias,1,0.0
+Causa_Morte,SÃO PAULO,Outras doenças da pleura,541,0.17
+Causa_Morte,SÃO PAULO,Outras doenças das vias aéreas superiores,90,0.03
+Causa_Morte,SÃO PAULO,Outras doenças degenerativas do sistema nervoso,7838,2.41
+Causa_Morte,SÃO PAULO,Outras doenças do aparelho digestivo,1810,0.56
+Causa_Morte,SÃO PAULO,Outras doenças do aparelho respiratório,1843,0.57
+Causa_Morte,SÃO PAULO,Outras doenças do aparelho urinário,9025,2.77
+Causa_Morte,SÃO PAULO,Outras doenças do sangue e dos órgãos hematopoéticos,208,0.06
+Causa_Morte,SÃO PAULO,Outras doenças dos intestinos,3869,1.19
+Causa_Morte,SÃO PAULO,Outras doenças infecciosas,11,0.0
+Causa_Morte,SÃO PAULO,Outras doenças por vírus,3079,0.95
+Causa_Morte,SÃO PAULO,Outras doenças respiratórias que afetam principalmente o interstício,2027,0.62
+Causa_Morte,SÃO PAULO,Outras formas de doença do coração,18264,5.61
+Causa_Morte,SÃO PAULO,Outras infecções agudas das vias aéreas inferiores,214,0.07
+Causa_Morte,SÃO PAULO,Outras malformações congênitas,364,0.11
+Causa_Morte,SÃO PAULO,Outras malformações congênitas do aparelho digestivo,107,0.03
+Causa_Morte,SÃO PAULO,Outros transtornos da regulação da glicose e da secreção pancreática interna,93,0.03
+Causa_Morte,SÃO PAULO,Outros transtornos do rim e do ureter,148,0.05
+Causa_Morte,SÃO PAULO,Outros transtornos do sistema nervoso,1007,0.31
+Causa_Morte,SÃO PAULO,Outros transtornos do sistema osteomuscular e do tecido conjuntivo,1,0.0
+Causa_Morte,SÃO PAULO,Outros transtornos maternos relacionados predominantemente com a gravidez,10,0.0
+Causa_Morte,SÃO PAULO,Outros transtornos originados no período perinatal,913,0.28
+Causa_Morte,SÃO PAULO,"Outros transtornos, e os não especificados do aparelho circulatório",78,0.02
+Causa_Morte,SÃO PAULO,Paralisia cerebral e outras síndromes paralíticas,355,0.11
+Causa_Morte,SÃO PAULO,"Pediculose, acaríase e outras infestações",18,0.01
+Causa_Morte,SÃO PAULO,Polineuropatias e outros transtornos do sistema nervoso periférico,133,0.04
+Causa_Morte,SÃO PAULO,Retardo mental,24,0.01
+Causa_Morte,SÃO PAULO,Rickettsioses,24,0.01
+Causa_Morte,SÃO PAULO,Seqüelas de causas externas de morbidade e de mortalidade,89,0.03
+Causa_Morte,SÃO PAULO,Seqüelas de doenças infecciosas e parasitárias,126,0.04
+Causa_Morte,SÃO PAULO,Sintomas e sinais gerais,1438,0.44
+Causa_Morte,SÃO PAULO,Sintomas e sinais relativos ao aparelho circulatório e respiratório,580,0.18
+Causa_Morte,SÃO PAULO,Sintomas e sinais relativos ao aparelho digestivo e ao abdome,193,0.06
+Causa_Morte,SÃO PAULO,Sintomas e sinais relativos ao aparelho urinário,2,0.0
+Causa_Morte,SÃO PAULO,Sintomas e sinais relativos aos sistemas nervoso e osteomuscular,2,0.0
+Causa_Morte,SÃO PAULO,"Sintomas e sinais relativos à cognição, à percepção, ao estado emocional e ao comportamento",3,0.0
+Causa_Morte,SÃO PAULO,Sintomas e sinais relativos à pele e ao tecido subcutâneo,16,0.0
+Causa_Morte,SÃO PAULO,Síndromes comportamentais associadas a disfunções fisiológicas e a fatores físicos,11,0.0
+Causa_Morte,SÃO PAULO,Transtorno mental não especificado,6,0.0
+Causa_Morte,SÃO PAULO,Transtornos da glândula tireóide,251,0.08
+Causa_Morte,SÃO PAULO,"Transtornos da pálpebra, do aparelho lacrimal e da órbita",2,0.0
+Causa_Morte,SÃO PAULO,"Transtornos da vesícula biliar, das vias biliares e do pâncreas",2609,0.8
+Causa_Morte,SÃO PAULO,Transtornos de outras glândulas endócrinas,42,0.01
+Causa_Morte,SÃO PAULO,Transtornos do aparelho digestivo do feto ou do recém-nascido,175,0.05
+Causa_Morte,SÃO PAULO,Transtornos do comportamento e transtornos emocionais que aparecem habitualmente durante a infância ou a adolescência,1,0.0
+Causa_Morte,SÃO PAULO,Transtornos do desenvolvimento psicológico,15,0.0
+Causa_Morte,SÃO PAULO,Transtornos do humor [afetivos],107,0.03
+Causa_Morte,SÃO PAULO,Transtornos do humor vítreo e do globo ocular,1,0.0
+Causa_Morte,SÃO PAULO,"Transtornos dos nervos, das raízes e dos plexos nervosos",2,0.0
+Causa_Morte,SÃO PAULO,Transtornos dos tecidos moles,454,0.14
+Causa_Morte,SÃO PAULO,Transtornos endócrinos e metabólicos transitórios específicos do feto e do recém-nascido,77,0.02
+Causa_Morte,SÃO PAULO,Transtornos episódicos e paroxísticos,837,0.26
+Causa_Morte,SÃO PAULO,Transtornos hemorrágicos e hematológicos do feto e do recém-nascido,127,0.04
+Causa_Morte,SÃO PAULO,Transtornos mentais e comportamentais devidos ao uso de substância psicoativa,1265,0.39
+Causa_Morte,SÃO PAULO,"Transtornos mentais orgânicos, inclusive os sintomáticos",1923,0.59
+Causa_Morte,SÃO PAULO,"Transtornos neuróticos, transtornos relacionados com o ""stress"" e transtornos somatoformes",15,0.0
+Causa_Morte,SÃO PAULO,Transtornos não-inflamatórios do trato genital feminino,43,0.01
+Causa_Morte,SÃO PAULO,Transtornos relacionados com a duração da gestação e com o crescimento fetal,371,0.11
+Causa_Morte,SÃO PAULO,Transtornos respiratórios e cardiovasculares específicos do período perinatal,2381,0.73
+Causa_Morte,SÃO PAULO,Traumatismo de parto,4,0.0
+Causa_Morte,SÃO PAULO,Tuberculose,1244,0.38
+Causa_Morte,SÃO PAULO,Urticária e eritema,30,0.01
+Faixa_Etária,BAHIA,00_Menor_1_ano,2263,2.31
+Faixa_Etária,BAHIA,01_0_a_14_anos,952,0.97
+Faixa_Etária,BAHIA,02_15_a_29_anos,6445,6.58
+Faixa_Etária,BAHIA,03_30_a_59_anos,22841,23.32
+Faixa_Etária,BAHIA,04_60_a_79_anos,33710,34.42
+Faixa_Etária,BAHIA,05_80_anos_ou_mais,27965,28.56
+Faixa_Etária,BAHIA,06_Nao_Declarado,3754,3.83
+Faixa_Etária,SANTA CATARINA,00_Menor_1_ano,835,1.79
+Faixa_Etária,SANTA CATARINA,01_0_a_14_anos,329,0.7
+Faixa_Etária,SANTA CATARINA,02_15_a_29_anos,1497,3.2
+Faixa_Etária,SANTA CATARINA,03_30_a_59_anos,9955,21.3
+Faixa_Etária,SANTA CATARINA,04_60_a_79_anos,19477,41.67
+Faixa_Etária,SANTA CATARINA,05_80_anos_ou_mais,13696,29.3
+Faixa_Etária,SANTA CATARINA,06_Nao_Declarado,957,2.05
+Faixa_Etária,SÃO PAULO,00_Menor_1_ano,5676,1.74
+Faixa_Etária,SÃO PAULO,01_0_a_14_anos,2172,0.67
+Faixa_Etária,SÃO PAULO,02_15_a_29_anos,8619,2.65
+Faixa_Etária,SÃO PAULO,03_30_a_59_anos,65664,20.19
+Faixa_Etária,SÃO PAULO,04_60_a_79_anos,133413,41.01
+Faixa_Etária,SÃO PAULO,05_80_anos_ou_mais,102801,31.6
+Faixa_Etária,SÃO PAULO,06_Nao_Declarado,6939,2.13
+Local_Ocorrência,BAHIA,Outros,97930,100.0
+Local_Ocorrência,SANTA CATARINA,Outros,46746,100.0
+Local_Ocorrência,SÃO PAULO,Outros,325284,100.0
+Raça_Cor,BAHIA,Não Declarado,97930,100.0
+Raça_Cor,SANTA CATARINA,Não Declarado,46746,100.0
+Raça_Cor,SÃO PAULO,Não Declarado,325284,100.0
+Sexo,BAHIA,Não Declarado,97930,100.0
+Sexo,SANTA CATARINA,Não Declarado,46746,100.0
+Sexo,SÃO PAULO,Não Declarado,325284,100.0
